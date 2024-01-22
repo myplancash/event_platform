@@ -13,7 +13,7 @@ const Footer = () => {
             alt='logo'
           />
         </Link>
-        <p className="">2023 Evently. All Rights reserved.</p>
+        <p className="">2024 Vera. All Rights reserved.</p>
       </div>
     </footer>
   )

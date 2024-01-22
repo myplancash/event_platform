@@ -12,10 +12,10 @@ const poppins = Poppins({
 
 export const metadata: Metadata = { 
   title: {
-    template: '%s | Evently',
-    default: 'Evently',
+    template: '%s | Vera',
+    default: 'Vera',
   },
-  description: 'Evently is a platform for event management',
+  description: 'Vera is a platform for event management',
   icons: [],
   metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
 }

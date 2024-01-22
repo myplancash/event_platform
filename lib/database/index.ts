@@ -10,7 +10,7 @@ export const connectToDatabase = async () => {
 
   //we ether connect to our existing cached connection or we create new one.
   cached.promise = cached.promise || mongoose.connect(MONGODB_URI, {
-    dbName: 'evently',
+    dbName: 'Vera',
     bufferCommands: false,
   })
 

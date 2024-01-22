@@ -11,7 +11,7 @@ const Header = () => {
     <header className="w-full border-b">
       <div className="wrapper flex items-center justify-between">
         <Link href='/' className='w-36'>
-          <Image src='/assets/images/logo.svg' width={128} height={38} alt='Evently logo' />
+          <Image src='/assets/images/logo.svg' width={128} height={38} alt='Vera logo' />
         </Link>
         <div className="flex justify-end gap-3"> {/* w-32 */}
           {/* here the clerk to setup of authentication */}
